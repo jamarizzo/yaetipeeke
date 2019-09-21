@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peicoofei.austincmonroe.com/sitemap.xml
